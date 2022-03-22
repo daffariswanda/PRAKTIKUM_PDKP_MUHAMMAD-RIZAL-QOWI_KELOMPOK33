@@ -30,3 +30,4 @@ int footer(int total)
 
 
 }
+//iseng coba ngedit bang hehe
